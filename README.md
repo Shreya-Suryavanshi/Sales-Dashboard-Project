@@ -21,28 +21,6 @@ To design an interactive and insightful sales dashboard using Power BI, showcasi
 
 ---
 
-## 📸 Screenshots
-
-Here’s a quick look at what I built!  
-*(Make sure you upload these images in a `screenshots/` folder)*
-
-### 🖥️ Full Dashboard Overview  
-![Dashboard Overview](screenshots/dashboard-full.png)
-
-### 🌍 Sales by City  
-![Map Visual](screenshots/map-view.png)
-
-### 📱 Sales by Mobile Model  
-![Sales by Model](screenshots/sales-model.png)
-
-### 📅 Monthly Quantity Trend  
-![Monthly Trend](screenshots/monthly-trend.png)
-
-### 💳 Payment Method Breakdown  
-![Payment Pie Chart](screenshots/payment-methods.png)
-
----
-
 ## 📌 What’s Inside the Dashboard?
 
 - ✅ Total Sales, Quantity Sold, Transactions, Average Price  
